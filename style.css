@@ -1,0 +1,35 @@
+body {
+    background: #000;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: white;
+    margin-left: 45%;
+    margin-right: 50%;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+table{
+    border: 1px solid white;
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+.logo {
+    max-width: 100px;
+}
